@@ -3,7 +3,7 @@ package Exemples;
 import java.io.File;
 import java.io.FileFilter;
 
-public class ListFilesTest {
+public class Exemple1 {
 
 	public static void main(String[] args) {
 		// Répertoire de recherche
