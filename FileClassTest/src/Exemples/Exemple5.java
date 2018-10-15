@@ -12,9 +12,9 @@ public class Exemple5 {
 			FileWriter fw = new FileWriter("MonFix.txt");
 			fw.write("bonjour");
 			fw.close();
-		}
-		catch (IOException ex) {ex.printStackTrace();
-			
+		} catch (IOException ex) {
+			ex.printStackTrace();
+
 		}
 	}
 
